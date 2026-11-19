@@ -1,0 +1,19 @@
+{
+  "format": "gtm-public-template-bundle-v1",
+  "templates": [
+    {
+      "file": "containers/automotive.json",
+      "sha256": "26fff9eaf59219d63804a555c6a45fda66ad5728d3085884ab1779cbb5114ab7",
+      "counts": {
+        "tag": 38,
+        "trigger": 39,
+        "variable": 52,
+        "builtInVariable": 5
+      }
+    }
+  ],
+  "audit_command": "python3 scripts/audit_export.py",
+  "static_audit": "PASS",
+  "native_import_compatibility": "PASS_NATIVE_IMPORT_PREVIEW",
+  "publication_or_installation_performed_by_builder": false
+}
